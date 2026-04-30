@@ -1,0 +1,17 @@
+# Ambiente Virtual (Essencial ignorar!)
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos de configuração do PyCharm
+.idea/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
